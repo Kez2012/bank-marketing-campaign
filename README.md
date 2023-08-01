@@ -1,2 +1,6 @@
-# bank-marketing-campaign
-Predicting whether customer will subscribe to term deposit
+# Predicting Term Deposit Subscriptions through Targeted Telephonic Marketing
+Term deposits play a pivotal role in generating income for banks, and to sell them, various outreach plans are employed, including email marketing, advertisements, telephonic marketing, and digital marketing. Among these, telephonic marketing campaigns have proven to be highly effective, but they demand significant investments in large call centers. To optimize the resources and maximize campaign success, it is essential to identify customers most likely to convert before executing the campaigns.
+
+
+## Objectives:
+By leveraging machine learning algorithms and predictive modeling techniques, this project aims to develop a model that can accurately predict the likelihood of a customer subscribing to a term deposit during a telephonic marketing campaign. Such a predictive model will enable the banking institution to focus its resources on the most promising prospects, improving campaign efficiency and boosting the overall success rate of term deposit subscriptions. Ultimately, the project seeks to empower the bank to make data-driven decisions, enhance customer targeting, and optimize marketing efforts, leading to increased revenue and customer satisfaction.
